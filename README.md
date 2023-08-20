@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about full stack
 - 📫 How to reach me: you can reach me at divyakirantatikonda@gmail.com
 
--->
+
